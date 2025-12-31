@@ -184,16 +184,8 @@ npm start
 ```
 The frontend will run on `http://localhost:3000`
 
-## Deployment
 
-### Backend Deployment (Railway/Render)
-The backend is deployed on **[Railway/Render]** at:
-- **Backend URL:** `https://your-backend-url.up.railway.app`
 
-### Frontend Deployment
-The frontend can be deployed on platforms like Vercel, Netlify, or GitHub Pages.
-
-## API Endpoints
 
 ### Authentication
 - `POST /api/auth/signup` - Register new user
